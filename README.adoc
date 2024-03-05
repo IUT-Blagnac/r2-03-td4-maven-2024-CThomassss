@@ -1,7 +1,7 @@
 
 Les étapes à suivre sont les suivantes :
 
-- Nettoyer le projet : exécuter la commande `mvn clean`.
-- Compiler le programme : exécuter la commande `mvn compile`.
-- Générer une version exécutable : exécuter la commande `mvn package`.
-- Lancer le programme : exécuter la commande `java -jar target.tp_qualite-1.0.jar`
+Nettoyer `mvn clean`.
+Compiler le programme `mvn compile`.
+Générer une version exécutable  `mvn package`.
+Lancer le programme `java -jar target.tp_qualite-1.0.jar`
