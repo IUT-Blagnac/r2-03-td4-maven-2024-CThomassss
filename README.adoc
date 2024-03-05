@@ -1,6 +1,3 @@
-# Compte Rendu de TP
-
-Afin de garantir le bon fonctionnement du programme, il est essentiel de remplacer le fichier code.java dans le fichier pom.xml.
 
 Les étapes à suivre sont les suivantes :
 
